@@ -24,4 +24,4 @@ Also, I work on MARL on general sum games where we design algorithms that solve 
 
 In the past, I also workd on likelihood models and wrote the reimanian diffusion model paper. 
 
-I have expertise in both likelihood models and RL. I think the mixture of this too will be the key to AGI. 
+I have expertise in both likelihood models and RL. I think the mixture of this two will be the key to AGI. 
