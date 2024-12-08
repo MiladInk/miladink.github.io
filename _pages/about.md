@@ -16,4 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Milad Aghajohari. I research on improving reasoning capabilities of LLMs via RL principles. Also, I work on multi agent general sum games. 
+I am Milad Aghajohari. I have two research directions:
+
+I work on improving reasoning capabilities of LLMs via RL principles. I am a first co-author of VinePPO where we fixed the credit assignment problem prevalent silently in RL tuning of LLMs. Fixing this gaves us higher accuracy faster. This was an amazing work and I continue to work on this domain. 
+
+Also, I work on MARL on general sum games where we design algorithms that solve general sum games as naive RL fails badly. 
+
+In the past, I also workd on likelihood models and wrote the reimanian diffusion model paper. 
+
+I have expertise in both likelihood models and RL. I think the mixture of this too will be the key to AGI. 
